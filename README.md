@@ -24,7 +24,7 @@ This challenge will be tackled solo.
 
 ---
 
-**Live Version:** [Link]()
+**Live Version:** [Link](http://localhost:63342/PycharmProjects/BecCode/githubproject.html?_ijt=855atvrjdipgmnhipo7690vs1s&_ij_reload=RELOAD_ON_SAVE)
 
 **GitHub Repository:** [Link](https://github.com/cyber272/building_a_simple_network.git)
 
