@@ -24,9 +24,9 @@ This challenge will be tackled solo.
 
 ---
 
-**Live Version:** [Link]
+**Live Version:** [Link]()
 
-**GitHub Repository:** [Link]()
+**GitHub Repository:** [Link](https://github.com/cyber272/building_a_simple_network.git)
 
 [Link]: <insert live version link here>
 [Link]: <insert GitHub repository link here>
