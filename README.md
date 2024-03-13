@@ -26,7 +26,7 @@ This challenge will be tackled solo.
 
 **Live Version:** [Link]
 
-**GitHub Repository:** [Link]
+**GitHub Repository:** [Link]()
 
 [Link]: <insert live version link here>
 [Link]: <insert GitHub repository link here>
